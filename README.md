@@ -12,7 +12,7 @@ This is my personal challenge to stay consistent and improve my Python skills by
 I am following a structured learning approach and documenting everything I learn.
 
 ---
-
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ## 🎯 Goals
 
 - 💻 Code daily without skipping  
