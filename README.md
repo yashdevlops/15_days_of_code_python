@@ -16,23 +16,24 @@ I am learning Python by following the "100 Days of Code Python" series and pract
 
 ## 📅 Progress Tracker
 
-| Day | Status | Topics |
-|-----|--------|--------|
-| Day 1 | ✅ Completed | Basics, Variables, Input, Calculator |
-| Day 2 | ⏳ Pending | |
-| Day 3 | ⏳ Pending | |
-| Day 4 | ⏳ Pending | |
-| Day 5 | ⏳ Pending | |
-| Day 6 | ⏳ Pending | |
-| Day 7 | ⏳ Pending | |
-| Day 8 | ⏳ Pending | |
-| Day 9 | ⏳ Pending | |
-| Day 10 | ⏳ Pending | |
-| Day 11 | ⏳ Pending | |
-| Day 12 | ⏳ Pending | |
-| Day 13 | ⏳ Pending | |
-| Day 14 | ⏳ Pending | |
-| Day 15 | ⏳ Pending | |
+| Day | Status |
+|-----|--------|
+| Day 1 | ✅ Completed |
+| Day 2 | ⏳ In Progress |
+| Day 3 | ⏳ |
+| Day 4 | ⏳ |
+| Day 5 | ⏳ |
+| Day 6 | ⏳ |
+| Day 7 | ⏳ |
+| Day 8 | ⏳ |
+| Day 9 | ⏳ |
+| Day 10 | ⏳ |
+| Day 11 | ⏳ |
+| Day 12 | ⏳ |
+| Day 13 | ⏳ |
+| Day 14 | ⏳ |
+| Day 15 | ⏳ |
+
 
 ---
 
