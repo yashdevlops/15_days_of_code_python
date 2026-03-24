@@ -40,6 +40,7 @@ Strings in Python are sequences of characters, which means they can be accessed 
 
 # String Methods :
 This section covers commonly used string methods in Python, which are essential for manipulating and analyzing text data. Python provides built-in functions to change the case of strings, remove unnecessary spaces, replace or split text, and format strings for better readability.
+<<<<<<< HEAD
 upper() – Converts all characters in the string to uppercase.
 lower() – Converts all characters in the string to lowercase.
 strip() – Removes whitespace from both the beginning and end of the string.
@@ -68,3 +69,27 @@ Conditional statements in Python are used to control the flow of a program based
 An if statement checks a condition and executes its block if the condition is true. The else block runs when the condition is false. The elif statement is used to check multiple conditions in sequence. Python also supports nested conditional statements, where one condition can be placed inside another for more complex decision-making.
 
 These statements are essential for building logic-driven programs.
+=======
+- upper() – Converts all characters to uppercase  
+- lower() – Converts all characters to lowercase  
+- strip() – Removes whitespace from both ends  
+- rstrip() – Removes trailing characters  
+- replace() – Replaces substring  
+- split() – Splits string into list  
+- capitalize() – Capitalizes first letter  
+- center() – Centers the string  
+- count() – Counts occurrences  
+- endswith() – Checks ending  
+- find() – Finds index or -1  
+- index() – Finds index or error  
+- isalnum() – Checks alphanumeric  
+- isalpha() – Checks letters only  
+- islower() – Checks lowercase  
+- isprintable() – Checks printable  
+- isspace() – Checks spaces only  
+- istitle() – Checks title case  
+- isupper() – Checks uppercase  
+- startswith() – Checks starting  
+- swapcase() – Swaps case  
+- title() – Capitalizes words  
+>>>>>>> ceb1ff80d9f179b21e36efaed6e4188cd875250a
