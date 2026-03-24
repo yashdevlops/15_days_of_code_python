@@ -40,28 +40,28 @@ Strings in Python are sequences of characters, which means they can be accessed 
 
 # String Methods :
 This section covers commonly used string methods in Python, which are essential for manipulating and analyzing text data. Python provides built-in functions to change the case of strings, remove unnecessary spaces, replace or split text, and format strings for better readability.
-upper() – Converts all characters in the string to uppercase.
-lower() – Converts all characters in the string to lowercase.
-strip() – Removes whitespace from both the beginning and end of the string.
-rstrip() – Removes trailing characters (or whitespace) from the end of the string.
-replace() – Replaces all occurrences of a substring with another substring.
-split() – Splits the string into a list based on a specified separator.
-capitalize() – Converts the first character to uppercase and the rest to lowercase.
-center() – Aligns the string in the center with specified padding.
-count() – Returns the number of times a substring appears in the string.
-endswith() – Checks if the string ends with a specified value.
-find() – Returns the index of the first occurrence of a substring, or -1 if not found.
-index() – Returns the index of a substring, but raises an error if not found.
-isalnum() – Returns True if the string contains only letters and numbers.
-isalpha() – Returns True if the string contains only letters.
-islower() – Returns True if all characters are lowercase.
-isprintable() – Returns True if all characters in the string are printable.
-isspace() – Returns True if the string contains only whitespace characters.
-istitle() – Returns True if each word starts with an uppercase letter.
-isupper() – Returns True if all characters are uppercase.
-startswith() – Checks if the string starts with a specified value.
-swapcase() – Converts uppercase letters to lowercase and vice versa.
-title() – Capitalizes the first letter of each word in the string.
+- upper() – Converts all characters to uppercase  
+- lower() – Converts all characters to lowercase  
+- strip() – Removes whitespace from both ends  
+- rstrip() – Removes trailing characters  
+- replace() – Replaces substring  
+- split() – Splits string into list  
+- capitalize() – Capitalizes first letter  
+- center() – Centers the string  
+- count() – Counts occurrences  
+- endswith() – Checks ending  
+- find() – Finds index or -1  
+- index() – Finds index or error  
+- isalnum() – Checks alphanumeric  
+- isalpha() – Checks letters only  
+- islower() – Checks lowercase  
+- isprintable() – Checks printable  
+- isspace() – Checks spaces only  
+- istitle() – Checks title case  
+- isupper() – Checks uppercase  
+- startswith() – Checks starting  
+- swapcase() – Swaps case  
+- title() – Capitalizes words  
 # CONDITIONAL STATEMENTS :
 Conditional statements in Python are used to control the flow of a program based on certain conditions. The if, elif, and else statements allow the program to execute different blocks of code depending on whether a condition evaluates to True or False.
 
