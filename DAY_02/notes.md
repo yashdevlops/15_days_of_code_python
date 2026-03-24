@@ -62,3 +62,9 @@ isupper() – Returns True if all characters are uppercase.
 startswith() – Checks if the string starts with a specified value.
 swapcase() – Converts uppercase letters to lowercase and vice versa.
 title() – Capitalizes the first letter of each word in the string.
+# CONDITIONAL STATEMENTS :
+Conditional statements in Python are used to control the flow of a program based on certain conditions. The if, elif, and else statements allow the program to execute different blocks of code depending on whether a condition evaluates to True or False.
+
+An if statement checks a condition and executes its block if the condition is true. The else block runs when the condition is false. The elif statement is used to check multiple conditions in sequence. Python also supports nested conditional statements, where one condition can be placed inside another for more complex decision-making.
+
+These statements are essential for building logic-driven programs.
