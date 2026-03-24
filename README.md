@@ -86,4 +86,5 @@ I am following a structured learning approach and documenting everything I learn
 
 ## 📌 Connect With Me
 
-(Add your GitHub / LinkedIn later)
+LinkedIn : www.linkedin.com/in/yashdeo-aiml
+ 
