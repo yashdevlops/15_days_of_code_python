@@ -28,8 +28,8 @@ I am following a structured learning approach and documenting everything I learn
 |-----|--------|
 | Day 1 | ✅ Completed |
 | Day 2 | ✅ Completed |
-| Day 3 | ⏳ |
-| Day 4 | ⏳ |
+| Day 3 | ✅ Completed |
+| Day 4 | ✅ Completed |
 | Day 5 | ⏳ |
 | Day 6 | ⏳ |
 | Day 7 | ⏳ |
